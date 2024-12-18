@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296021537609",
+    "project_id": "studentscheduletracking",
+    "storage_bucket": "studentscheduletracking.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296021537609:android:102599c4aad861aa4f6098",
+        "android_client_info": {
+          "package_name": "com.example.studentscheduletracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIzEaPi5fxdqjrM_6q5xGtPQ4UvhlnR7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
